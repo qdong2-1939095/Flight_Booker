@@ -1,0 +1,9 @@
+#
+# create a single user
+create user1 password 0
+quit
+*
+#
+Created user user1
+Goodbye
+*

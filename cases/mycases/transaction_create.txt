@@ -1,0 +1,16 @@
+# Terminal 1
+create user1 user1 10000
+quit
+*
+# Terminal 1 suceeds in user creation
+Created user user1
+Goodbye
+*
+# Terminal 2
+create user2 user2 1000
+quit
+*
+# Terminal 2 suceeds in user creation
+Created user user2
+Goodbye
+*
